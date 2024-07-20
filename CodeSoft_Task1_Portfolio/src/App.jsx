@@ -7,8 +7,10 @@ import Hero from "./Components/Hero";
 export default function App() {
   return (
     <>
-      <Header></Header>
-      <div className="pt-24">
+      <div className="">
+        <Header></Header>
+      </div>
+      <div className="pt-24 lg:px-40 px-20">
           <Hero></Hero>
           <About></About>
           <Education></Education>
