@@ -33,7 +33,7 @@ return (
         </div>
         {/* Image */}
         <div className='hidden lg:flex lg:flex-col lg:items-end'>
-              <img src='pi-1.png' className='md:w-full max-w-96 '></img>
+              <img src='pi-1.png' className=' md:w-full max-w-96 '></img>
         </div>
     </div>
 </section>
