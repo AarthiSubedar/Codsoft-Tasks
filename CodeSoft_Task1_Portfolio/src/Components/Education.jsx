@@ -2,10 +2,7 @@ import React from 'react'
 
 const Education = () => {
   return (
-    <section id='education'>
-    <div>
-      <p>Education</p>
-    </div>
+    <section id='education' className='pt-24'>
   </section>
   )
 }

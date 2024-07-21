@@ -1,8 +1,10 @@
 import About from "./Components/About";
 import Contact from "./Components/Contact";
-import Education from "./Components/Education";
+import Footer from "./Components/Footer";
 import Header from "./Components/Header";
 import Hero from "./Components/Hero";
+import Project from "./Components/Project";
+import Skills from "./Components/Skills";
 
 export default function App() {
   return (
@@ -10,12 +12,14 @@ export default function App() {
       <div className="">
         <Header></Header>
       </div>
-      <div className="pt-24 lg:px-40 px-20">
+      <div className="pt-24 lg:px-32 px-10">
           <Hero></Hero>
           <About></About>
-          <Education></Education>
+          <Skills></Skills>
+          <Project></Project>
           <Contact></Contact>
       </div>
+      <Footer></Footer>
       
     </>
   )
