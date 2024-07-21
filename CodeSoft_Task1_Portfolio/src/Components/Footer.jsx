@@ -15,7 +15,7 @@ const Footer = () => {
             <a href='#projects' className='text-2xl text-gray-800 font-longContent '>Projects</a>
           </div>
           <div className='flex gap-10 mt-10 items-center justify-center '>
-              <a href='https://github.com/AarthiSubedar' aria-label='GitHub'>
+              <a href='https://github.com/AarthiSubedar?tab=repositories' aria-label='GitHub'>
                 <VscGithubAlt className='text-4xl bg-neutral-800 hover:bg-black p-2 rounded-lg text-white ' />
               </a>
               <a href='https://www.linkedin.com/in/subedar-aarthi/' aria-label='LinkedIn'>

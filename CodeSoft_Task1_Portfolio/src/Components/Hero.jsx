@@ -21,7 +21,7 @@ const Hero = () => {
           </p>
           {/* Social Media Links */}
           <div className='flex gap-10 '>
-            <a href='https://github.com/AarthiSubedar' aria-label='GitHub'>
+            <a href='https://github.com/AarthiSubedar?tab=repositories' aria-label='GitHub'>
               <VscGithubAlt className='text-3xl hover:text-purple-600 hover:-translate-y-1 duration-200' />
             </a>
             <a href='https://www.linkedin.com/in/subedar-aarthi/' aria-label='LinkedIn'>
