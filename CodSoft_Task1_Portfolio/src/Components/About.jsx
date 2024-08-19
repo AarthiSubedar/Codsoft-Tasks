@@ -24,7 +24,7 @@ const About = () => {
                         with Reactjs coupled with a solid understanding of server-side development using Java(j2SE+j2EE)
                   </p>
                   <div className='flex bg-purple-400 rounded-2xl w-72  mt-20 transition  ease-in-out delay-100 lg:hover:-translate-y-1 lg:hover:scale-110 duration-200 hover:bg-purple-500'>
-                    <a href='Resume.pdf' download className='text-2xl font-heading p-4 mt-1 text-white'>Download Resume </a>
+                    <a href='Resume.pdf' download className='text-2xl font-heading p-4 mt-1 text-white'>Download Resume. </a>
                     <RiFileDownloadFill className='text-4xl  mt-4 text-purple-800'></RiFileDownloadFill> 
                   </div>
             </div>
